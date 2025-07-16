@@ -1,0 +1,32 @@
+Orovela,Грузия,1
+Chateau Folonari,Франция,1
+Marani,Грузия,1
+Kvint,Молдова,1
+Badagoni,Грузия,1
+Kindzmarauli,Грузия,1
+Fragolino,Италия,1
+Purcari,Молдова,1
+Chateau Peyfaures,Франция,1
+Sogrape,Португалия,1
+Wine Man,Грузия,1
+Bagrationi,Грузия,1
+Campari,Италия,1
+Martini,Италия,1
+Alaverdi,Грузия,1
+Lion Gri,Молдова,1
+Batasiolo,Италия,1
+Gancia,Италия,1
+Sella & Mosca,Италия,1
+Массандра,Крым,1
+Falesco,Италия,1
+Ricasoli,Италия,1
+Chateau Verou,Франция,1
+Cricova,Молдова,1
+Ruffino,Италия,1
+Santeli,Грузия,1
+Chateau Preuillac,Франция,1
+Piccini,Италия,1
+Pinot Grigio,Италия,1
+Patriarche,Франция,1
+Baglio di Pianetto,Италия,1
+Абрау-Дюрсо,Россия,1

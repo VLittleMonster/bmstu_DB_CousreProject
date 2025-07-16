@@ -1,0 +1,132 @@
+Orovela Corp. Ltd.,Грузия,Тбилиси,1881
+Chateau Folonari Corp. Ltd.,Франция,Прованс,1972
+Marani Corp. Ltd.,Грузия,Тбилиси,1811
+Kvint Corp. Ltd.,Молдова,Кишинев,1839
+Badagoni Corp. Ltd.,Грузия,Батуми,1890
+Kindzmarauli Corp. Ltd.,Грузия,Сухуми,1867
+Fragolino Corp. Ltd.,Италия,Рим,1879
+Purcari Corp. Ltd.,Молдова,Кишинев,1866
+Chateau Peyfaures Corp. Ltd.,Франция,Париж,1980
+Sogrape Corp. Ltd.,Португалия,Лиссабон,1928
+Wine Man Corp. Ltd.,Грузия,Батуми,1819
+Bagrationi Corp. Ltd.,Грузия,Сухуми,1950
+Campari Corp. Ltd.,Италия,Рим,1930
+Martini Corp. Ltd.,Италия,Неаполь,1860
+Alaverdi Corp. Ltd.,Грузия,Тбилиси,1839
+Lion Gri Corp. Ltd.,Молдова,Кишинев,1913
+Batasiolo Corp. Ltd.,Италия,Венеция,1988
+Gancia Corp. Ltd.,Италия,Неаполь,1804
+Sella & Mosca Corp. Ltd.,Италия,Турин,1875
+Массандра Corp. Ltd.,Крым,Ялта,1933
+Falesco Corp. Ltd.,Италия,Турин,1860
+Ricasoli Corp. Ltd.,Италия,Генуя,1879
+Chateau Verou Corp. Ltd.,Франция,Ницца,1811
+Cricova Corp. Ltd.,Молдова,Кишинев,1830
+Ruffino Corp. Ltd.,Италия,Неаполь,1985
+Santeli Corp. Ltd.,Грузия,Сухуми,1945
+Chateau Preuillac Corp. Ltd.,Франция,Тулуза,1815
+Piccini Corp. Ltd.,Италия,Турин,1965
+Pinot Grigio Corp. Ltd.,Италия,Рим,1891
+Patriarche Corp. Ltd.,Франция,Марсель,1841
+Baglio di Pianetto Corp. Ltd.,Италия,Неаполь,1861
+Абрау-Дюрсо Corp. Ltd.,Россия,Тулуза,1862
+Bollinger Corp. Ltd.,Франция,Пьемонт,1827
+Лев Голицын Corp. Ltd.,Россия,Краснодар,1975
+Dom Perignon Corp. Ltd.,Франция,Париж,1862
+Chateau Tamagne Corp. Ltd.,Россия,Краснодар,1935
+Louis Roederer Corp. Ltd.,Франция,Пьемонт,1950
+Deutz Corp. Ltd.,Франция,Париж,1837
+Canti Corp. Ltd.,Италия,Неаполь,1852
+Ruinart Corp. Ltd.,Франция,Марсель,1848
+Santo Stefano Corp. Ltd.,Россия,Москва,1877
+Gosset Corp. Ltd.,Франция,Ницца,1942
+Veuve Clicquot Corp. Ltd.,Франция,Бордо,1812
+Taittinger Corp. Ltd.,Франция,Тулуза,1862
+Laurent-Perrier Corp. Ltd.,Франция,Лион,1878
+Moet & Chandon Corp. Ltd.,Франция,Ницца,1944
+Балаклава Corp. Ltd.,Крым,Балаклава,1950
+Delamotte Corp. Ltd.,Франция,Лион,1807
+Золотая Балка Corp. Ltd.,Крым,Феодосия,1947
+Mondoro Corp. Ltd.,Италия,Неаполь,1823
+Henriot Corp. Ltd.,Франция,Тулуза,1860
+Буржуа Corp. Ltd.,Россия,Москва,1867
+Советское Шампанское Corp. Ltd.,Россия,Краснодар,1938
+Krug Corp. Ltd.,Франция,Марсель,1881
+Martel Corp. Ltd.,Франция,Марсель,1870
+Hennessy Corp. Ltd.,Франция,Прованс,1956
+Sambuca Corp. Ltd.,Италия,Милан,1999
+Cointreau Corp. Ltd.,Франция,Тулуза,1804
+Belvedere Corp. Ltd.,Польша,Варшава,1960
+Jameson Corp. Ltd.,Ирландия,Рейкьявик,1891
+Beefeater Corp. Ltd.,Великобритания,Лондон,1949
+Famous Grouse Corp. Ltd.,Шотландия,Абердин,1927
+Kahlua Corp. Ltd.,Мексика,Мехико,1903
+Jack Daniel's Corp. Ltd.,США,Сан-Диего,1890
+Braastad Corp. Ltd.,Франция,Бордо,1878
+Cork Dry Corp. Ltd.,Ирландия,Рейкьявик,1812
+Арарат Corp. Ltd.,Армения,Ереван,1972
+Smirnoff Corp. Ltd.,Великобритания,Лондон,1910
+Evan Williams Corp. Ltd.,США,Сан-Диего,1881
+Malibu Corp. Ltd.,Барбадос,Барбадос,1852
+Finlandia Corp. Ltd.,Финляндия,Хельсинки,1894
+Jagermeister Corp. Ltd.,Германия,Берлин,1919
+Chivas Regal Corp. Ltd.,Шотландия,Гласго,1903
+Becherovka Corp. Ltd.,Чехия,Прага,1931
+Courvoisier Corp. Ltd.,Франция,Бордо,1939
+Aperol Corp. Ltd.,Италия,Милан,1970
+Olmeca Corp. Ltd.,Мексика,Мехико,1845
+Havana Club Corp. Ltd.,Куба,Гавана,1869
+Sierra Corp. Ltd.,Мексика,Мехико,1883
+Tunel Corp. Ltd.,Испания,Мадрид,1810
+Bacardi Corp. Ltd.,Бермудские Острова,Гамильтон,1973
+Patron Corp. Ltd.,США,Бостон,1972
+Hill's Corp. Ltd.,Чехия,Прага,1957
+Brocker's Corp. Ltd.,Великобритания,Лондон,1990
+Johnie Walker Corp. Ltd.,Великобритания,Лондон,1848
+Коктебель Corp. Ltd.,Крым,Коктебель,1828
+1800 Tequila Corp. Ltd.,Мексика,Мехико,1953
+Gordon's Corp. Ltd.,Великобритания,Лондон,1810
+London Hill Corp. Ltd.,Великобритания,Лондон,1946
+Baileys Corp. Ltd.,Ирландия,Рейкьявик,1970
+Xenta Corp. Ltd.,Италия,Валенсия,1855
+Blagoff Corp. Ltd.,Украина,Киев,1821
+Sauza Corp. Ltd.,Мексика,Мехико,1918
+Jim Beam Corp. Ltd.,США,Бостон,1827
+Русский стандарт Corp. Ltd.,Россия,Краснодар,1868
+Citadelle Corp. Ltd.,Франция,Париж,1987
+Absolut Corp. Ltd.,Швеция,Стокгольм,1932
+Camus Corp. Ltd.,Франция,Ницца,1835
+Bombay Corp. Ltd.,Великобритания,Лондон,1865
+Asahi Corp. Ltd.,Япония,Токио,1919
+Amaretto Corp. Ltd.,Италия,Неаполь,1807
+Зеленая Марка Corp. Ltd.,Россия,Москва,1912
+White Horse Corp. Ltd.,Великобритания,Лондон,1942
+Lucid Corp. Ltd.,Франция,Бордо,1845
+Stolichnaya Corp. Ltd.,Россия,Краснодар,1967
+Балтика Corp. Ltd.,Россия,Москва,1921
+Franziskaner Corp. Ltd.,Германия,Берлин,1874
+Stella Artois Corp. Ltd.,Бельгия,Брюссель,1874
+Grimbergen Corp. Ltd.,Бельгия,Брюссель,1890
+Lowenbrau Corp. Ltd.,Германия,Берлин,1991
+Жигулевское Corp. Ltd.,Россия,Краснодар,1839
+Corona Extra Corp. Ltd.,Мексика,Мехико,1984
+Старый Мельник Corp. Ltd.,Россия,Москва,1996
+Efes Corp. Ltd.,Турция,Стамбул,1873
+Garage Corp. Ltd.,Россия,Москва,1918
+Hoegaarden Corp. Ltd.,Бельгия,Брюссель,1909
+Beck's Corp. Ltd.,Германия,Берлин,1931
+Amstel Corp. Ltd.,Нидерланды,Амстердам,1999
+Miller Corp. Ltd.,США,Детройт,1969
+Carlsberg Corp. Ltd.,Дания,Копенгаген,1929
+Polonaise Corp. Ltd.,Польша,Варшава,1938
+Крым Corp. Ltd.,Крым,Ялта,1878
+Jupiler Corp. Ltd.,Бельгия,Брюссель,1999
+Tuborg Corp. Ltd.,Дания,Копенгаген,1978
+Peroni Corp. Ltd.,Италия,Милан,1922
+ESSA Corp. Ltd.,Россия,Москва,1926
+Bavaria Corp. Ltd.,Нидерланды,Амстердам,1913
+Сибирская Корона Corp. Ltd.,Россия,Краснодар,1841
+Harbin Corp. Ltd.,Китай,Пекин,1980
+Bitburger Corp. Ltd.,Германия,Берлин,1841
+Budweiser Corp. Ltd.,США,Детройт,1802
+Heineken Corp. Ltd.,Нидерланды,Амстердам,1856

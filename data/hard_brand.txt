@@ -1,0 +1,51 @@
+Martel,Франция,33
+Hennessy,Франция,33
+Sambuca,Италия,34
+Cointreau,Франция,34
+Belvedere,Польша,35
+Jameson,Ирландия,32
+Beefeater,Великобритания,37
+Famous Grouse,Шотландия,32
+Kahlua,Мексика,34
+Jack Daniel's,США,32
+Braastad,Франция,33
+Cork Dry,Ирландия,37
+Арарат,Армения,33
+Smirnoff,Великобритания,35
+Evan Williams,США,32
+Malibu,Barbados,31
+Finlandia,Финляндия,35
+Jagermeister,Германия,34
+Chivas Regal,Шотландия,32
+Becherovka,Чехия,35
+Courvoisier,Франция,33
+Aperol,Италия,34
+Olmeca,Мексика,36
+Havana Club,Куба,31
+Sierra,Мексика,36
+Tunel,Испания,38
+Bacardi,Бермудские Острова,31
+Patron,США,34
+Hill's,Чехия,38
+Brocker's,Великобритания,37
+Johnie Walker,Великобритания,32
+Коктебель,Крым,33
+1800 Tequila,Мексика,36
+Gordon's,Великобритания,37
+London Hill,Великобритания,37
+Baileys,Ирландия,34
+Xenta,Италия,38
+Blagoff,Украина,35
+Sauza,Мексика,36
+Jim Beam,США,32
+Русский стандарт,Россия,35
+Citadelle,Франция,32
+Absolut,Sweden,35
+Camus,Франция,33
+Bombay,Великобритания,37
+Asahi,Japan,39
+Amaretto,Италия,34
+Зеленая Марка,Россия,35
+White Horse,Великобритания,32
+Lucid,Франция,33
+Stolichnaya,Россия,35

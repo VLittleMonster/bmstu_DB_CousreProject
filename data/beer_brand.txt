@@ -1,0 +1,27 @@
+Балтика,Россия,4
+Franziskaner,Германия,4
+Stella Artois,Бельгия,4
+Grimbergen,Бельгия,4
+Lowenbrau,Германия,4
+Жигулевское,Россия,4
+Corona Extra,Мексика,4
+Старый Мельник,Россия,4
+Efes,Турция,4
+Garage,Россия,4
+Hoegaarden,Бельгия,4
+Beck's,Германия,4
+Amstel,Нидерланды,4
+Miller,США,4
+Carlsberg,Дания,4
+Polonaise,Польша,4
+Крым,Крым,4
+Jupiler,Бельгия,4
+Tuborg,Дания,4
+Peroni,Италия,4
+ESSA,Россия,4
+Bavaria,Нидерланды,4
+Сибирская Корона,Россия,4
+Harbin,Китай,4
+Bitburger,Германия,4
+Budweiser,США,4
+Heineken,Нидерланды,4

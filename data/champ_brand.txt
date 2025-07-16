@@ -1,0 +1,22 @@
+Bollinger,Франция,2
+Лев Голицын,Россия,2
+Dom Perignon,Франция,2
+Chateau Tamagne,Россия,2
+Louis Roederer,Франция,2
+Deutz,Франция,2
+Canti,Италия,2
+Ruinart,Франция,2
+Santo Stefano,Россия,2
+Gosset,Франция,2
+Veuve Clicquot,Франция,2
+Taittinger,Франция,2
+Laurent-Perrier,Франция,2
+Moet & Chandon,Франция,2
+Балаклава,Крым,2
+Delamotte,Франция,2
+Золотая Балка,Крым,2
+Mondoro,Италия,2
+Henriot,Франция,2
+Буржуа,Россия,2
+Советское Шампанское,Россия,2
+Krug,Франция,2
